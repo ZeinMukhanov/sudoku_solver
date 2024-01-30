@@ -21,3 +21,4 @@ Sudoku Solver is a Python application built using Pygame, designed to solve Sudo
     - Press `Backspace` or `Delete` to delete your value.
     - Press `Space` to solve the board completely.
 ## Demo:
+<img src="https://github.com/ZeinMukhanov/demo/blob/main/sudoku_demo.gif" width="600" height="600"/>
