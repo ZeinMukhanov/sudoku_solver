@@ -15,6 +15,6 @@ Sudoku Solver is a Python application built using Pygame, designed to solve Sudo
 ## Getting started:
 - Clone the repository to your local machine.
 - ```pip install -r requirements.txt```
-- ```python3 GUI.py```
+- ```python3 sudoku.py```
 
 ## Demo:
