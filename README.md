@@ -11,8 +11,6 @@ The Sudoku Solver with GUI is a Python application built using Pygame, designed 
 ## Technologies used:
 - Python: Core programming language used for implementing the Sudoku solver logic and GUI.
 - Pygame: Library for creating graphical applications and games in Python, utilized for building the interactive GUI.
-- Backtracking Algorithm: Algorithmic approach employed for solving Sudoku puzzles efficiently.
-- GUI Design: Utilizes Pygame's features for rendering graphics, handling user inputs, and managing the application's state.
 
 ## Getting started:
 - Clone the repository to your local machine.
