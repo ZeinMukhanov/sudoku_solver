@@ -1,5 +1,5 @@
 # Sudoku Solver
-The Sudoku Solver with GUI is a Python application built using Pygame, designed to solve Sudoku puzzles with a graphical user interface (GUI). Utilizing a backtracking algorithm, the solver efficiently finds solutions to Sudoku grids, providing users with an interactive tool for tackling challenging puzzles.
+Sudoku Solver is a Python application built using Pygame, designed to solve Sudoku puzzles with a graphical user interface (GUI). Utilizing a backtracking algorithm, the solver efficiently finds solutions to Sudoku grids, providing users with an interactive tool for tackling challenging puzzles.
 
 ## Features:
 - Graphical User Interface: Built with Pygame, the application offers an intuitive and visually appealing interface for inputting Sudoku puzzles and viewing solutions.
